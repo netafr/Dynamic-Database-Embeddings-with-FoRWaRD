@@ -1,0 +1,242 @@
+"Name","Mountains","Height","Type","Longitude","Latitude"
+"Aconcagua","Andes",6962.0,"",-70.0,-32.65
+"Alpamayo","Cordillera Blanca",5947.0,"",-77.7,-8.9
+"Ampato","Andes",6288.0,"volcano",-71.9,-15.8
+"Andringitra","",2658.0,"volcanic",47.0,-22.5
+"Annapurna","Himalaya",8091.0,"",83.8,28.6
+"Ararat","Kurdistan",5165.0,"volcanic",44.3,39.7
+"Asahi-Dake","",2290.0,"volcanic",142.85,43.65
+"Ausangate","Cordillera Vilcanota",6336.0,"",-71.2,-13.8
+"Barbeau Peak","British Empire Range",2616.0,"",-75.0,81.9
+"Barre des Ecrins","Alps",4101.0,"",6.3,44.9
+"Ben Nevis","Grampians",1344.0,"",-5.0,56.8
+"Bjelucha","Altai",4506.0,"",86.4,49.48
+"Blue Mountain Peak","",2256.0,"",-76.4,18.1
+"Borah Peak","Rocky Mountains",3859.0,"",-113.8,44.1
+"Boundary Peak","Sierra Nevada California",4006.0,"",-118.3,37.9
+"Broad Peak","Karakorum",8051.0,"",76.6,35.8
+"Brocken","Harz",1141.0,"",10.6,51.8
+"Cathkin Peak","Drakensberge",3181.0,"",29.35,-29.1
+"Cayambe","Andes",5796.0,"volcano",-78.0,0.1
+"Cerro Chirripo","Cordillera de Talamanca",3819.0,"volcanic",-83.5,9.5
+"Cerro de Punta","",1338.0,"",-66.6,18.2
+"Changbai Shan","Changbai",2744.0,"",128.1,42.0
+"Chimborazo","Andes",6287.0,"volcano",-78.5,-1.2
+"Cho Oyu","Himalaya",8188.0,"",86.65,28.35
+"Citlaltepetl (Pico de Orizaba)","Cordillera Volcanica",5700.0,"volcano",-97.0,19.0
+"Clingmans Dome","Appalachen",2025.0,"",-83.2,35.3
+"Concepcion","",1700.0,"volcano",-85.6,11.5
+"Coropuna","Cordillera Volcanica",6425.0,"volcano",-72.65,-15.5
+"Cotopaxi","Andes",5897.0,"volcano",-78.4,-0.7
+"Crap_Sogn_Gion","Alps",2228.0,"",9.2,46.85
+"Damavand","Elburs",5610.0,"volcano",52.1,35.95
+"Demirkazik","Taurus",3756.0,"",35.2,37.8
+"Dhaulagiri","Himalaya",8167.0,"",83.5,28.7
+"Djebel Aures","Rif",2456.0,"",-6.5,35.5
+"Dodabetta","West Ghats",2636.0,"",76.7,11.4
+"Elbrus","Kaukasus",5642.0,"volcanic",42.26,43.21
+"Elgon","East African Rift",4321.0,"volcanic",34.55,1.1
+"Emi Kussi","Tibesti",3415.0,"volcano",18.5,20.0
+"Etna","",3323.0,"volcano",15.0,37.7
+"Fako","",4095.0,"volcano",9.2,4.2
+"Feldberg","Schwarzwald",1493.0,"",7.5,47.5
+"Finsteraarhorn","Alps",4274.0,"",8.1,46.5
+"Fogo","Cape Verdes",2829.0,"volcano",-24.4,14.95
+"Fujisan","",3776.0,"volcano",139.0,35.0
+"Galdhoeppig","",2469.0,"",8.0,61.4
+"Gannett Peak","Rocky Mountains",4207.0,"",-110.0,43.2
+"Gasherbrum I","Karakorum",8080.0,"",76.7,35.6
+"Gasherbrum II","Karakorum",8034.0,"",76.65,35.75
+"GerlachovskyStit","Beskides",2655.0,"",20.1,49.2
+"Glittertind","",2452.0,"",8.1,61.4
+"Gran Sasso","Apennin",2912.0,"",13.55,42.5
+"Grand Ballon","Vosges",1424.0,"",7.1,47.9
+"GrandCombin","Alps",4314.0,"",7.3,45.9
+"Granite Peak","Rocky Mountains",3901.0,"",-109.5,45.0
+"GranParadiso","Alps",4061.0,"",7.25,45.5
+"Grosser Arber","Bayrischer Wald",1456.0,"",13.0,49.1
+"Grossglockner","Alps",3797.0,"",12.5,47.0
+"Guadalupe Peak","Rocky Mountains",2667.0,"",-105.0,32.0
+"Gunung Agung","",3142.0,"volcano",115.5,-8.3
+"Gunung Binaiya","",3027.0,"",129.3,-3.1
+"Haleakala","Hawaii",3055.0,"volcano",-156.25,20.7
+"Haltiatunturi","",1328.0,"",21.4,67.0
+"Harney Peak","Rocky Mountains",2207.0,"",-103.4,44.0
+"Hekla","",1491.0,"volcano",-19.7,64.0
+"Hochgolling","Alps",2862.0,"",13.75,47.3
+"Hotaka-Dake","",3190.0,"volcano",138.0,36.0
+"Huascaran","Cordillera Blanca",6768.0,"",-77.3,-9.0
+"Humphreys Peak","Rocky Mountains",3850.0,"volcanic",-111.65,35.3
+"Hvannadalshnukur","",2110.0,"volcanic",-16.7,64.1
+"Illampu","Cordillera Real",6368.0,"granite",-68.5,-15.8
+"Illimani","Cordillera Real",6439.0,"granite",-67.8,-16.65
+"Irazu","Cordillera de Talamanca",3432.0,"volcano",-83.9,10.0
+"Iztaccihuatl","Cordillera Volcanica",5286.0,"volcanic",-98.6,19.2
+"Jabal Katrina","Sinai",2637.0,"",33.95,28.5
+"Jabal Lubnan","Lebanon",3088.0,"",36.1,34.3
+"Jabal Marra","Darfur",3088.0,"volcanic",24.6,13.0
+"Jabal Shuayb","",3760.0,"",44.0,15.5
+"Jezerce","Balkan",2694.0,"",19.4,42.3
+"Joekul","",1876.0,"",7.2,60.3
+"Jostedalsbre","",2083.0,"",5.5,61.4
+"K2","Karakorum",8611.0,"",76.5,35.9
+"Kailash","Transhimalaya",6714.0,"",81.3,31.05
+"Kangchendzonga","Himalaya",8586.0,"",88.1,27.7
+"Kanlaon","",2435.0,"volcano",123.1,10.4
+"Karisimbi","East African Rift",4507.0,"volcano",29.45,-1.5
+"Kasbek","Kaukasus",5033.0,"volcanic",44.31,42.42
+"Katla","",1450.0,"volcano",-19.0,63.6
+"Kebnekaise","",2114.0,"",18.3,67.5
+"Kenia","East African Rift",5199.0,"volcanic",37.3,0.15
+"Kerinci","",3805.0,"volcano",101.45,-1.7
+"Kilimanjaro","East African Rift",5895.0,"volcano",37.35,-3.05
+"Kinabalu","",4101.0,"granite",116.5,6.1
+"Kings Peak","Rocky Mountains",4123.0,"",-110.4,40.5
+"Kljutschewskaja Sopka","Kamchatka",4750.0,"volcano",160.6,56.1
+"Korab","Balkan",2751.0,"",20.3,41.4
+"Krakatau","",813.0,"volcano",105.4,-6.1
+"La Soufriere","",1467.0,"volcano",-61.65,16.05
+"Leuser","",3466.0,"volcanic",98.0,3.0
+"Lhotse","Himalaya",8516.0,"",86.9,28.0
+"Licancabur","Andes",5920.0,"volcano",-67.9,-22.8
+"Llullaillaco","Andes",6739.0,"volcano",-68.5,-24.7
+"Makalu","Himalaya",8485.0,"",87.1,27.9
+"Manaslu","Himalaya",8163.0,"",84.6,28.55
+"Mantalingajan","",2085.0,"volcanic",118.4,9.7
+"Marmolata","Alps",3343.0,"",11.85,46.4
+"Matterhorn","Alps",4478.0,"",7.56,46.0
+"Mauna Kea","Hawaii",4214.0,"volcano",-155.45,19.6
+"Mauna Loa","Hawaii",4170.0,"volcano",-155.6,19.5
+"Mawenzi","East African Rift",5148.0,"volcano",37.45,-3.1
+"Merapi","",2914.0,"volcano",110.4,-7.5
+"Meru","East African Rift",4567.0,"volcano",36.8,-3.2
+"Moldoveanu","Karpaten",2544.0,"",24.7,45.6
+"Moncayo","Cordillera Iberica",2313.0,"",1.85,41.8
+"Mont Blanc","Alps",4808.0,"",6.8,45.8
+"Mont Greboun","Azbine",1944.0,"",9.0,20.0
+"Mont Orohena","",2241.0,"volcanic",-149.5,-17.6
+"Monte Cinto","Corse",2706.0,"",8.9,42.4
+"Monte Falterona","Apennin",1654.0,"",11.7,43.9
+"Monte Pissis","Andes",6795.0,"volcanic",-68.85,-27.8
+"Monte Rosa","Alps",4634.0,"",7.9,45.9
+"Morne Diablotins","",1447.0,"volcano",-61.4,15.5
+"Mount Apo","",2954.0,"volcanic",125.45,7.0
+"Mount Everest","Himalaya",8848.0,"",86.9,28.0
+"Mt Adams","Cascade Range",3743.0,"volcano",-121.5,46.2
+"Mt Blackburn","Wrangell Mountains",4996.0,"volcano",-143.4,61.7
+"Mt Bona","Elias Range",5005.0,"",-141.75,61.4
+"Mt Columbia","Rocky Mountains",3747.0,"",-117.44,52.15
+"Mt Elbert","Rocky Mountains",4401.0,"",-106.4,39.1
+"Mt Fairweather","Elias Range",4663.0,"",-137.5,58.9
+"Mt Hood","Cascade Range",3424.0,"volcano",-121.5,45.2
+"Mt Logan","Elias Range",5959.0,"",-140.4,60.6
+"Mt Marcy","Adirondacks",1629.0,"",-73.9,44.1
+"Mt McKinley","Alaska Range",6193.0,"",-151.0,63.1
+"Mt Mitchell","Appalachen",2037.0,"",-82.1,35.4
+"Mt Rainier","Cascade Range",4392.0,"volcano",-121.75,46.5
+"Mt Redoubt","Aleutian Range",3108.0,"volcano",-152.75,60.5
+"Mt Robson","Rocky Mountains",3954.0,"",-119.1,52.3
+"Mt St.Elias","Elias Range",5489.0,"",-140.9,60.3
+"Mt Waddington","Coast Mountains",4019.0,"",-125.26,51.4
+"Mt Washington","Appalachen",1917.0,"",-71.3,44.3
+"Mt Whitney","Sierra Nevada California",4418.0,"",-118.2,36.6
+"Mt. Babel","",952.0,"",-68.7,51.45
+"Mt. Balbi","",2715.0,"volcanic",155.0,-5.9
+"Mt. Bogong","Snowy Mountains",1986.0,"",147.5,-37.0
+"Mt. Cook","New Zealand Alps",3754.0,"",170.2,-43.6
+"Mt. Giluwe","",4368.0,"volcano",143.9,-6.05
+"Mt. Kosciuszko","Snowy Mountains",2228.0,"",148.0,-36.5
+"Mt. Odin","Penny Highlands",2147.0,"",-65.6,66.55
+"Mt. Wilhelm","",4509.0,"",145.0,-5.8
+"Mt.Victoria","",1323.0,"volcanic",178.0,-17.8
+"Mulhacen","Cordillera Betica",3482.0,"",3.3,37.0
+"Musala","Balkan",2925.0,"",23.6,42.2
+"Nanda Devi","Himalaya",7816.0,"",80.0,30.4
+"Nanga Parbat","Karakorum",8125.0,"",74.6,35.2
+"Narodnaja","Ural",1895.0,"",60.1,65.0
+"Nevado de Colima","Cordillera Volcanica",4330.0,"volcano",-104.0,20.0
+"Nevado de Toluca","Cordillera Volcanica",4558.0,"volcano",-99.0,19.0
+"Nevado del Huila","Andes",5750.0,"volcano",-76.0,2.9
+"Nevado del Ruiz","Andes",5389.0,"volcano",-75.3,4.9
+"Ojos del Salado","Andes",6893.0,"volcano",-68.5,-27.1
+"Olymp","",2917.0,"",22.35,40.1
+"Olympos","Troodos",1952.0,"",32.85,34.9
+"Oraefajokull","",2110.0,"volcano",64.0,16.39
+"Pelee","",1397.0,"volcano",-61.15,14.8
+"Pico","Azores",2351.0,"volcano",-28.4,38.5
+"Pico Basile","",3011.0,"volcano",8.7,3.5
+"Pico Bolivar","Andes",4981.0,"",-71.0,8.6
+"Pico Cristobal Colon","Sierra Nevada de Santa Marta",5775.0,"",-73.7,10.85
+"Pico de Agulhas Negras","Brazilian Highlands",2791.0,"",-44.65,-22.4
+"Pico de Almanzor","Cordillera Central",2648.0,"",-5.3,40.25
+"Pico de Aneto","Pyrenees",3404.0,"",0.65,42.6
+"Pico de los Nieves","Canary Islands",1949.0,"volcano",-15.6,25.95
+"Pico de Sao Tome","",2024.0,"volcanic",6.6,0.2
+"Pico de Teide","Canary Islands",3718.0,"volcano",-16.6,28.3
+"Pico Duarte","",3098.0,"",-71.3,18.3
+"Pico Rocarre","Cordillera Negra",5187.0,"",-78.0,-8.8
+"Pico Ruivo","Madeira",1861.0,"volcanic",-16.0,31.0
+"Pico Turquino","Sierra Maestra",1974.0,"",-76.8,20.0
+"Pidurutalagala","",2524.0,"",80.8,7.0
+"Pik Chan-Tengri","Tien Shan",6995.0,"",80.0,43.0
+"Pik Karl-Marx","Pamir",6726.0,"",71.3,38.0
+"Pik Kommunizma","Pamir",7494.0,"",72.0,39.0
+"Pik Lenina","Pamir",7134.0,"",72.55,39.2
+"Pik Moskva","Pamir",6785.0,"",71.5,39.0
+"Pik Pobeda","Tien Shan",7439.0,"",80.1,42.0
+"Pik Revoluzija","Pamir",6974.0,"",72.2,38.3
+"Pikes Peak","Rocky Mountains",4302.0,"",-105.0,38.8
+"Pinatubo","",1486.0,"volcano",120.3,15.1
+"Piton de la Fournaise","",2631.0,"volcano",55.7,-21.2
+"Piton des Neiges","",3069.0,"volcanic",55.5,-21.1
+"Piz Bernina","Alps",4048.0,"",9.9,46.4
+"Popocatepetl","Cordillera Volcanica",5450.0,"volcano",-98.0,19.0
+"Popomanaseu","",2335.0,"volcanic",160.1,-9.7
+"Portefjaellen","",2021.0,"",17.4,67.1
+"Psiloritis","Crete",2456.0,"",24.7,35.2
+"Pulog","",2928.0,"volcanic",121.0,17.0
+"Puncak Jaya","Sudirman Range",4884.0,"",137.11,-4.1
+"Puy De Dome","Cevennes",1465.0,"volcanic",3.0,45.8
+"Puy de Sancy","Cevennes",1885.0,"volcanic",2.8,45.5
+"Queen Marys Peak","",2060.0,"volcano",-12.3,-37.1
+"Rantekombola","",3455.0,"volcanic",120.0,-3.6
+"Ras Daschan Terara","Amhara",4533.0,"volcanic",38.4,13.2
+"Rinjani","",3726.0,"volcano",116.5,-8.4
+"Roque de los Muchachos","Canary Islands",2426.0,"volcano",-17.9,28.75
+"Ruapehu","",2797.0,"volcano",175.6,-39.3
+"Ruwenzori","East African Rift",5109.0,"",29.9,0.4
+"Sabalan","Kurdistan",4811.0,"volcanic",47.8,38.3
+"Sajama","Andes",6542.0,"volcano",-68.9,-18.1
+"Sarektjokko","",2090.0,"",17.4,67.3
+"Schneekoppe","Sudety Mountains",1602.0,"",15.7,50.7
+"Semeru","",3676.0,"volcano",112.9,-8.1
+"Shishapangma","Himalaya",8027.0,"",85.8,28.55
+"Silisili","",1858.0,"volcanic",-172.4,-13.6
+"Snaefell","",1833.0,"volcanic",-15.2,64.5
+"Snoehetta","",2286.0,"",9.0,62.1
+"Soufriere","",1220.0,"volcano",-61.2,13.35
+"Soufriere Hills","",1050.0,"volcano",-62.2,16.7
+"Sulitjelma","",1914.0,"",16.2,67.1
+"Tahan","",2190.0,"",108.0,4.0
+"Tahat","Ahaggar",3003.0,"volcanic",5.5,23.3
+"Tajumulco","Sierra Madre",4220.0,"volcanic",-91.9,15.0
+"Tambora","",2850.0,"volcano",118.0,-8.2
+"Tamgak","Azbine",1800.0,"volcanic",9.0,19.0
+"Tarrekaise","",1850.0,"",17.3,67.0
+"Tatamailau","",2963.0,"",125.5,-8.9
+"Thabana Ntlenyana","Drakensberge",3482.0,"",29.3,-29.5
+"Tirich Mir","Hindukusch",7690.0,"",71.8,36.25
+"Torre de Cerredo","Cordillera Cantabrica",2648.0,"",4.85,43.2
+"Torre de Estrela","Cordillera Central",1993.0,"",-7.6,40.3
+"Tsaratanana","",2876.0,"volcanic",48.5,-14.0
+"Tsiafajavona","",2642.0,"volcanic",47.2,-19.3
+"Tubkhal","Atlas",4165.0,"",-8.0,31.0
+"Tupungato","Andes",6550.0,"volcano",-69.87,-33.35
+"Uluru","",869.0,"monolith",131.0,-25.3
+"Vesuv","",1281.0,"volcano",14.4,40.8
+"Vignemale","Pyrenees",3298.0,"",0.15,42.8
+"Wheeler Peak","Rocky Mountains",4011.0,"",-105.4,36.55
+"Yu Shan","",3950.0,"",121.0,23.5
+"Zard Kuh","Zagros",4550.0,"",50.1,32.35
+"Zhima","",1276.0,"",107.4,53.15
+"Zugspitze","Alps",2963.0,"",11.1,47.3

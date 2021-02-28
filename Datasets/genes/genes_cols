@@ -1,0 +1,4 @@
+genes GeneID classification GeneID
+interactions GeneID1 classification GeneID
+interactions GeneID2 classification GeneID
+predict classification Localization
