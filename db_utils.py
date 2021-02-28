@@ -249,7 +249,35 @@ class Database:
                         G.add_edge(rel_id, row_id)
 
         return G
+	
+	def get_row_val_graph_reg(self, add_row_classes=True):
 
+        cell_counts = {col_id: {} for col_id in self.base_col_ids}
+        for rel_id, row_id, col_id, cell in self.iter_cells():
+            if cell in cell_counts[col_id].keys():
+                cell_counts[col_id][cell] += 1
+            else:
+                cell_counts[col_id][cell] = 1
+
+        G = nx.Graph()
+
+        row_nodes = [row_id for _, row_id, _ in self.iter_rows()]
+        G.add_nodes_from([(r, {'type': 'row'}) for r in row_nodes])
+        #row_classes = self.get_row_classes()
+        #nx.set_node_attributes(G, row_classes, 'y')
+
+        for rel_id, row_id, col_id, cell in self.iter_cells():
+            if not col_id == self.predict_col:
+                values = cell.split() if cell_counts[col_id][cell] == 1 else [cell]
+                for val in values:
+                    val_id = f'{val}@{col_id}'
+                    if not G.has_node(val_id):
+                        G.add_node(val_id, type='val')
+
+                    G.add_edge(row_id, val_id)
+
+        return G
+	
     def get_row_val_graph(self, add_row_classes=True, partition=1):
 
         cell_counts = {col_id: {} for col_id in self.base_col_ids}
